@@ -92,7 +92,7 @@ This undermines trust, increases operational cost (e.g., via excessive SMS volum
 ➡️ **Violin Plots by Geo Region**
 <img width="1298" height="925" alt="image" src="https://github.com/user-attachments/assets/c2147ff1-5ce0-46e2-90a6-686919f2de8d" />
 
-## 6. Baseline Model Validation Sumnmary
+## 6. Baseline Model Validation Summary
 
 ### Logistic Regression Confusion Matrix
 
