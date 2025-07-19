@@ -21,10 +21,12 @@ The original Dataset had a million rows. For keeping the Data size resonable for
 
 # Note about the Files, Folder and Dataset...
 
--	The <Code> Folder will contain the Jupyter File.
-- The <Data> Folder would contain both the Input data file at the root sourced for processing and modeling. The Data folder will contain the subfolder named "FraudPhoneNumber" which will contain the post analysis data of
+-	The Code Folder will contain the Jupyter File.
+- The Data Folder would contain both the Input data file at the root sourced for processing and modeling. The Data folder will contain the subfolder named "FraudPhoneNumber" which will contain the post analysis data of
   fradulent phone numbers found.
-- The <GraphPlots> folder would contain 2 SubFolders - <<Supervised>> and <<Unsupervised>>. These subfolders will contain all the graphs for the respective models adopted in the project.
+- The GraphPlots folder would contain 2 SubFolders - <<Supervised>> and <<Unsupervised>>. These subfolders will contain all the graphs for the respective models adopted in the project.
+
+This is a <span style="color:red">red</span> word.
 
 The Github place holder for this Project(Module-20) is https://github.com/gurugrit/Capstone_UCB_MLAI_2025
 <img width="430" height="264" alt="image" src="https://github.com/user-attachments/assets/b3cf96bd-8e84-4472-bc40-1f082799a747" />
