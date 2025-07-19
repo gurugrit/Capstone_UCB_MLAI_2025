@@ -50,6 +50,7 @@ This undermines trust, increases operational cost (e.g., via excessive SMS volum
 
 ## 2. Data Understanding
 ### Data Description: The dataset contains 50000 entires with 20 Column-attributes/Features such as:
+- | Column Name | Data Type |
 - user_id                      object
 - email                        object
 - geo_region                   object
