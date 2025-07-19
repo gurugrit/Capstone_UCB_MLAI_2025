@@ -4,7 +4,9 @@
 Module 16.1 Covered this Research Question: 
 "How can we detect and prevent fraudulent phone numbers used during user registration or profile updates (on organizations Identity Access Systems) to exploit SMS-based systems for monetary gain?"
 This submission from Module-20 and the Successive Submission from Module 24 all add up to the Capstone Project for this course work.
-Module 16 Capstone primary was a problem statement for the research project. Module 20 would delve into the Dataset and its understanding and building baseline model. This dataset with this module will be primarily used to analyze and build surrounding ML/AI Models which would help us in our predictions.
+Module 16 Capstone primary was a problem statement for the research project. 
+
+Module 20 would delve into the Dataset and its understanding and building baseline model. This dataset with this module will be primarily used to analyze and build surrounding ML/AI Models which would help us in our predictions.
 
 The Final Capstone Project would be submitted as a part of Module 24.
 # Dataset
