@@ -118,8 +118,7 @@ While writing this readme. I had evaluated all the models I had planned to use t
 
 <img width="1051" height="627" alt="image" src="https://github.com/user-attachments/assets/11486151-4cbd-4b49-b967-7e963fe08d08" />
 
-🟢 **Further work Related with this Project Continues with Module 24**
-
+## 🟢 Further work Related with this Project Continues with Module 24 
 
 
 
