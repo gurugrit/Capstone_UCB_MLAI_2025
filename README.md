@@ -12,8 +12,8 @@ This submission from Module-20 and the Successive Submission from Module 24 all 
 **Module 24** of the cource will close this Capstone Project with its relevant final sumissions.
 # Dataset
 
-The Dataset used for this project is from my own Organizations. External users who are customers and partners register onto our organizations prime site seeking in IT NetWorking Solutions and Products. They typicall go thorugh a process of registration and there after come back to update their personal profile data. Notifications during this process are primarily sent via Phones for validations. Many of these phone numbers are fraudulent. Rouge users or Organizations accross geo locations exploit the SMS-Based systems for monetary gain and fraud. The Dataset used here is one such containing the listings of many users and their phone numbers now deidentified.
-This is for keeping the confidentiality of the data and compliance.
+The Dataset used for this project is from my own Organization. External users who are customers and partners register onto our organizations prime site seeking in IT NetWorking Solutions and Products. They typicall go thorugh a process of registration and there after come back to update their personal profile data through the profile pages after account login. Notifications during this process are primarily sent via Phones for validations. Many of these phone numbers are fraudulent. Rouge users or Organizations accross geo locations exploit the SMS-Based systems for monetary gain and fraud. The Dataset used here is one such containing the listings of many users and their phone numbers now deidentified.
+This is for keeping the confidentiality of the data from compliance perspective.
 
 #### Datafile Name - 🟨 Fraud_PhoneAnSMS_Dataset.csv 🟨
 
