@@ -28,4 +28,30 @@ The original Dataset had a million rows. For keeping the Data size resonable for
 
 The Github place holder for this Project(Module-20) is 🟨 https://github.com/gurugrit/Capstone_UCB_MLAI_2025 🟨
 
+Folder Structure Snapshot:
+
 <img width="430" height="264" alt="image" src="https://github.com/user-attachments/assets/b3cf96bd-8e84-4472-bc40-1f082799a747" />
+
+# Phases for this Project
+## 1. Business Understanding and Objective
+Organizations that rely on phone numbers for identity verification and SMS-based systems (e.g., one-time passwords, referral programs, financial alerts) are increasingly targeted by fraudsters using fake, virtual, or reused phone numbers. These malicious actors exploit identity systems to:
+✅ Bypass user verification steps
+✅ Abuse promotional or referral schemes
+✅ Automate mass registrations using VOIP or synthetic identities
+✅ Launder accounts for spam, phishing, or monetization
+This undermines trust, increases operational cost (e.g., via excessive SMS volume), and introduces risk to both users and the business.
+
+**Business Objective**: The goal of this project is to detect and prevent fraudulent phone numbers at the point of user registration or profile update within the identity access system. By doing so, we aim to:
+➡️ Reduce abuse of SMS-based systems (OTP, promo rewards)
+➡️ Lower operational costs related to fraudulent SMS traffic
+➡️ Improve onboarding quality and user trust
+➡️ Prevent future fraudulent activities linked to bad actors
+➡️ Enable scalable, data-driven fraud risk scoring
+
+## 2. Data Understanding
+## 3. Data Preparation
+## 4. Modeling
+## 5. Model Validation
+## Visualizations
+## Visualizations
+## ROC Curve Comparison:
