@@ -97,6 +97,7 @@ This undermines trust, increases operational cost (e.g., via excessive SMS volum
 ### Logistic Regression Confusion Matrix
 
 <img width="1171" height="897" alt="image" src="https://github.com/user-attachments/assets/8e3c391f-d623-4802-a883-ac8c2bf46e02" />
+
 - True Negatives : 9743
 - False Positives: 71
 - False Negatives: 100
