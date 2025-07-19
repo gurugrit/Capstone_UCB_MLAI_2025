@@ -12,7 +12,7 @@ The Final Capstone Project would be submitted as a part of Module 24.
 The Dataset used for this project is from my own Organizations. External users who are customers and partners register onto our organizations prime site seeking in IT NetWorking Solutions and Products. They typicall go thorugh a process of registration and there after come back to update their personal profile data. Notifications during this process are primarily sent via Phones for validations. Many of these phone numbers are fraudulent. Rouge users or Organizations accross geo locations exploit the SMS-Based systems for monetary gain and fraud. The Dataset used here is one such containing the listings of many users and their phone numbers now deidentified.
 This is for keeping the confidentiality of the data and compliance.
 
-#### Datafile Name = Fraud_PhoneAnSMS_Dataset.csv
+#### Datafile Name - 🟨 Fraud_PhoneAnSMS_Dataset.csv 🟨
 
 The original Dataset had a million rows. For keeping the Data size resonable for processing and based on the machine speeds and processing times the data size is curtailed to 50K and has 20 Columns.
 
@@ -21,16 +21,11 @@ The original Dataset had a million rows. For keeping the Data size resonable for
 
 # Note about the Files, Folder and Dataset...
 
--	The Code Folder will contain the Jupyter File.
-- The Data Folder would contain both the Input data file at the root sourced for processing and modeling. The Data folder will contain the subfolder named "FraudPhoneNumber" which will contain the post analysis data of
+-	The 🟢Code Folder will contain the Jupyter File.
+- The 🟢Data Folder would contain both the Input data file at the root sourced for processing and modeling. The Data folder will contain the subfolder named "FraudPhoneNumber" which will contain the post analysis data of
   fradulent phone numbers found.
-- The GraphPlots folder would contain 2 SubFolders - <<Supervised>> and <<Unsupervised>>. These subfolders will contain all the graphs for the respective models adopted in the project.
+- The 🟢GraphPlots folder would contain 2 SubFolders - ⚪Supervised and ⚪Unsupervised. These subfolders will contain all the graphs for the respective models adopted in the project.
 
-🟥 This is a normal sentence.  
-<span style="color:green">This one is green.</span>  
-<span style="color:orange">This one is orange.</span>  
-<span style="color:tomato">This one is tomato red.</span>
-
-The Github place holder for this Project(Module-20) is https://github.com/gurugrit/Capstone_UCB_MLAI_2025
+The Github place holder for this Project(Module-20) is 🟨 https://github.com/gurugrit/Capstone_UCB_MLAI_2025 🟨
 
 <img width="430" height="264" alt="image" src="https://github.com/user-attachments/assets/b3cf96bd-8e84-4472-bc40-1f082799a747" />
