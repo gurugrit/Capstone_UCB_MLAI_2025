@@ -50,32 +50,25 @@ This undermines trust, increases operational cost (e.g., via excessive SMS volum
 
 ## 2. Data Understanding
 ### Data Description: The dataset contains 50000 entires with 20 Column-attributes/Features such as:
-- -------------------------------------|
-- |Column Name..............|Data Type.|
-- |-------------------------|----------|
-- |user_id                      object
-- |email                        object
-- |geo_region                   object
-- |phone_number                 object
-- |is_voip                       int64
-- |voip_provider                object
-- |account_age_days              int64
-- |sms_requests_last_24h         int64
-- |sms_requests_last_7d          int64
-- |otp_success_rate            float64
-- |num_accounts_this_number      int64
-- |geo_ip_mismatch               int64
-- |time_since_last_sms_sec       int64
-- |device_type                  object
-- |registration_hour             int64
-- |registration_dayofweek        int64
-- |browser_fingerprint          object
-- |ip_address                   object
-- |email_verified                int64
-- |is_fraud                      int64
+
+<img width="659" height="424" alt="image" src="https://github.com/user-attachments/assets/b8d97083-3a64-441b-8a1b-cab42bdc7771" />
 
 ## 3. Data Preparation
+- We dropped 'user_id', 'email', 'phone_number', 'browser_fingerprint', 'ip_address'
+- The Data File when observed did not contain any blanks or other irrelevant data which needed substitutions or transformations.
 ## 4. Modeling
+🟨 **Planned Supervised Models to be used**
+- 🕳️Logistic Regression (Baseline aroud this)
+- 🕳️Random Forest
+- 🕳️XGBoost
+- 🕳️LightGBM
+- 🕳️KNN
+- 🕳️Naive Bayes:GaussianNB
+🟦 **Planned Unsupervised Models to be used**
+- 🕳️Isolation Forest
+- 🕳️One-Class SVM
+- 🕳️LOF
+- 🕳️KMeans
 ## 5. Model Validation
 ## Visualizations
 ## Visualizations
