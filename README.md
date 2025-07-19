@@ -88,22 +88,24 @@ This undermines trust, increases operational cost (e.g., via excessive SMS volum
 **Violin Plots by Geo Region**
 <img width="1298" height="925" alt="image" src="https://github.com/user-attachments/assets/c2147ff1-5ce0-46e2-90a6-686919f2de8d" />
 
-****
-****
-****
-Logistic Regression Confusion Matrix
+## 6. Baseline Model Validation Sumnmary
+
+### Logistic Regression Confusion Matrix
+
 <img width="1171" height="897" alt="image" src="https://github.com/user-attachments/assets/8e3c391f-d623-4802-a883-ac8c2bf46e02" />
 - True Negatives : 9743
 - False Positives: 71
 - False Negatives: 100
 - True Positives : 5086
 
-Extremely high accuracy, precision, recall, and F1-scores.
-Balanced performance across both classes.
-Very few false positives/negatives.
-The dataset is likely well-separated.
-
 <img width="413" height="284" alt="image" src="https://github.com/user-attachments/assets/03113595-ea10-4d8c-9442-a4a6e82b6320" />
+
+From the above tables we can conclude that...
+- Extremely high accuracy, precision, recall, and F1-scores.
+- Balanced performance across both classes.
+- Very few false positives/negatives.
+- The dataset is also likely well-separated.
+
 
 
 
