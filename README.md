@@ -58,17 +58,19 @@ This undermines trust, increases operational cost (e.g., via excessive SMS volum
 - The Data File when observed did not contain any blanks or other irrelevant data which needed substitutions or transformations.
 ## 4. Modeling
 🟨 **Planned Supervised Models to be used**
-- 🕳️Logistic Regression (Baseline aroud this)
-- 🕳️Random Forest
-- 🕳️XGBoost
-- 🕳️LightGBM
-- 🕳️KNN
-- 🕳️Naive Bayes:GaussianNB
-🟦 **Planned Unsupervised Models to be used**
-- 🕳️Isolation Forest
-- 🕳️One-Class SVM
-- 🕳️LOF
-- 🕳️KMeans
+- 🕳️ Logistic Regression (Baseline aroud this)
+- 🕳️ Random Forest
+- 🕳️ XGBoost
+- 🕳️ LightGBM
+- 🕳️ KNN
+- 🕳️ Naive Bayes:GaussianNB
+
+- 🟦 **Planned Unsupervised Models to be used**
+- 🕳️ Isolation Forest
+- 🕳️ One-Class SVM
+- 🕳️ LOF
+- 🕳️ KMeans
+  
 ## 5. Model Validation
 ## Visualizations
 ## Visualizations
