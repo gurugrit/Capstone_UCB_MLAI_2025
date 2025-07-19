@@ -26,7 +26,11 @@ The original Dataset had a million rows. For keeping the Data size resonable for
   fradulent phone numbers found.
 - The GraphPlots folder would contain 2 SubFolders - <<Supervised>> and <<Unsupervised>>. These subfolders will contain all the graphs for the respective models adopted in the project.
 
-This is a <span style="color:red">red</span> word.
+This is a normal sentence.  
+<span style="color:green">This one is green.</span>  
+<span style="color:orange">This one is orange.</span>  
+<span style="color:tomato">This one is tomato red.</span>
 
 The Github place holder for this Project(Module-20) is https://github.com/gurugrit/Capstone_UCB_MLAI_2025
+
 <img width="430" height="264" alt="image" src="https://github.com/user-attachments/assets/b3cf96bd-8e84-4472-bc40-1f082799a747" />
