@@ -5,11 +5,11 @@ Module 16.1 Covered this Research Question:
 "How can we detect and prevent fraudulent phone numbers used during user registration or profile updates (on organizations Identity Access Systems) to exploit SMS-based systems for monetary gain?"
 This submission from Module-20 and the Successive Submission from Module 24 all add up to the Capstone Project for this course work.
 
-Module 16 Capstone primary was a problem statement for the research project. 
+**Module 16** Capstone primary was a problem statement for the research project. 
 
-Module 20 would delve into the Dataset and its understanding and building baseline model. This dataset with this module will be primarily used to analyze and build surrounding ML/AI Models which would help us in our predictions.
+**Module 20** would delve into the Dataset and its understanding and building baseline model. This dataset with this module will be primarily used to analyze and build surrounding ML/AI Models which would help us in our predictions.
 
-Module 24 of the cource will close this Capstone Project with its relevant final sumissions.
+**Module 24** of the cource will close this Capstone Project with its relevant final sumissions.
 # Dataset
 
 The Dataset used for this project is from my own Organizations. External users who are customers and partners register onto our organizations prime site seeking in IT NetWorking Solutions and Products. They typicall go thorugh a process of registration and there after come back to update their personal profile data. Notifications during this process are primarily sent via Phones for validations. Many of these phone numbers are fraudulent. Rouge users or Organizations accross geo locations exploit the SMS-Based systems for monetary gain and fraud. The Dataset used here is one such containing the listings of many users and their phone numbers now deidentified.
