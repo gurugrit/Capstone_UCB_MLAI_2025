@@ -73,7 +73,7 @@ This undermines trust, increases operational cost (e.g., via excessive SMS volum
   
 ## 5. Exploratory Data Analysis (Data Visualizations)
 
-➡️ <u>**Data Corelation Heatmap**</u>
+➡️ **Data Corelation Heatmap**
 <img width="1019" height="911" alt="image" src="https://github.com/user-attachments/assets/8fafaaad-087d-41a4-9876-bb7b3e31f462" />
 
 ➡️ **Distribution of Key Numeric Features**
@@ -105,6 +105,14 @@ From the above tables we can conclude that...
 - Balanced performance across both classes.
 - Very few false positives/negatives.
 - The dataset is also likely well-separated.
+
+## ROC Curve Comparison:
+The overall performance of a classifier, summarized over all possible classification thresholds, is given by the area under the ROC curve. An ideal ROC curve will hug the top left corner, 
+indicating a high true positive rate and a low false positive rate; the larger the AUC( Area Under) the better the classifier.
+
+While writing this readme. I had evaluated all the models I had planned to use the the ROC Curve for which is depicted below. This is also to baseline this along with the Baseline model it was being evaluated against.
+
+<img width="1051" height="627" alt="image" src="https://github.com/user-attachments/assets/11486151-4cbd-4b49-b967-7e963fe08d08" />
 
 
 
