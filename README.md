@@ -49,6 +49,28 @@ This undermines trust, increases operational cost (e.g., via excessive SMS volum
 - ➡️ Enable scalable, data-driven fraud risk scoring
 
 ## 2. Data Understanding
+### Data Description: The dataset contains 50000 entires with 20 Column-attributes/Features such as:
+- user_id                      object
+- email                        object
+- geo_region                   object
+- phone_number                 object
+- is_voip                       int64
+- voip_provider                object
+- account_age_days              int64
+- sms_requests_last_24h         int64
+- sms_requests_last_7d          int64
+- otp_success_rate            float64
+- num_accounts_this_number      int64
+- geo_ip_mismatch               int64
+- time_since_last_sms_sec       int64
+- device_type                  object
+- registration_hour             int64
+- registration_dayofweek        int64
+- browser_fingerprint          object
+- ip_address                   object
+- email_verified                int64
+- is_fraud                      int64
+
 ## 3. Data Preparation
 ## 4. Modeling
 ## 5. Model Validation
