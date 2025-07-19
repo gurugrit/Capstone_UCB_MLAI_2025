@@ -57,15 +57,15 @@ This undermines trust, increases operational cost (e.g., via excessive SMS volum
 - We dropped 'user_id', 'email', 'phone_number', 'browser_fingerprint', 'ip_address'
 - The Data File when observed did not contain any blanks or other irrelevant data which needed substitutions or transformations.
 ## 4. Modeling
-🟨 **Planned Supervised Models to be used**
-- 🕳️ Logistic Regression (Baseline around this)
+🟨 **Proposed Supervised Models for this Project**
+- 🕳️ Logistic Regression (Baselined around this)
 - 🕳️ Random Forest
 - 🕳️ XGBoost
 - 🕳️ LightGBM
 - 🕳️ KNN
 - 🕳️ Naive Bayes:GaussianNB
 
-🟨 **Planned Unsupervised Models to be used**
+🟨 **Proposed Unsupervised Models for this Project**
 - 🕳️ Isolation Forest
 - 🕳️ One-Class SVM
 - 🕳️ LOF
@@ -82,11 +82,29 @@ This undermines trust, increases operational cost (e.g., via excessive SMS volum
 **Violin Plots of Numeric Features by Fraud Label**
 <img width="1295" height="918" alt="image" src="https://github.com/user-attachments/assets/72880f2b-b406-4469-b6e3-8c463a0b3a49" />
 
+**Kernel Density Estimate(KDE) Distributions of Features by Fraud Status**
+<img width="1301" height="923" alt="image" src="https://github.com/user-attachments/assets/79e3c1c9-d0b8-4198-9dd3-b1ca9541ff64" />
+
+**Violin Plots by Geo Region**
+<img width="1298" height="925" alt="image" src="https://github.com/user-attachments/assets/c2147ff1-5ce0-46e2-90a6-686919f2de8d" />
+
 ****
 ****
 ****
-****
-****
+Logistic Regression Confusion Matrix
+<img width="1171" height="897" alt="image" src="https://github.com/user-attachments/assets/8e3c391f-d623-4802-a883-ac8c2bf46e02" />
+- True Negatives : 9743
+- False Positives: 71
+- False Negatives: 100
+- True Positives : 5086
+
+Extremely high accuracy, precision, recall, and F1-scores.
+Balanced performance across both classes.
+Very few false positives/negatives.
+The dataset is likely well-separated.
+
+<img width="413" height="284" alt="image" src="https://github.com/user-attachments/assets/03113595-ea10-4d8c-9442-a4a6e82b6320" />
+
 
 
 
