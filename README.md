@@ -73,19 +73,19 @@ This undermines trust, increases operational cost (e.g., via excessive SMS volum
   
 ## 5. Exploratory Data Analysis (Data Visualizations)
 
-**Data Corelation Heatmap**
+** ➡️ Data Corelation Heatmap**
 <img width="1019" height="911" alt="image" src="https://github.com/user-attachments/assets/8fafaaad-087d-41a4-9876-bb7b3e31f462" />
 
-**Distribution of Key Numeric Features**
+** ➡️ Distribution of Key Numeric Features**
 <img width="1381" height="886" alt="image" src="https://github.com/user-attachments/assets/95300f18-deac-4396-8893-f7287434ab3e" />
 
-**Violin Plots of Numeric Features by Fraud Label**
+** ➡️ Violin Plots of Numeric Features by Fraud Label**
 <img width="1295" height="918" alt="image" src="https://github.com/user-attachments/assets/72880f2b-b406-4469-b6e3-8c463a0b3a49" />
 
-**Kernel Density Estimate(KDE) Distributions of Features by Fraud Status**
+** ➡️ Kernel Density Estimate(KDE) Distributions of Features by Fraud Status**
 <img width="1301" height="923" alt="image" src="https://github.com/user-attachments/assets/79e3c1c9-d0b8-4198-9dd3-b1ca9541ff64" />
 
-**Violin Plots by Geo Region**
+** ➡️ Violin Plots by Geo Region**
 <img width="1298" height="925" alt="image" src="https://github.com/user-attachments/assets/c2147ff1-5ce0-46e2-90a6-686919f2de8d" />
 
 ## 6. Baseline Model Validation Sumnmary
