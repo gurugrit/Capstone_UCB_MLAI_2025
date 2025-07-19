@@ -12,12 +12,13 @@ This submission from Module-20 and the Successive Submission from Module 24 all 
 **Module 24** of the cource will close this Capstone Project with its relevant final sumissions.
 # Dataset
 
-The Dataset used for this project is from my own Organization. External users who are customers and partners register onto our organizations prime site seeking in IT NetWorking Solutions and Products. They typicall go thorugh a process of registration and there after come back to update their personal profile data through the profile pages after account login. Notifications during this process are primarily sent via Phones for validations. Many of these phone numbers are fraudulent. Rouge users or Organizations accross geo locations exploit the SMS-Based systems for monetary gain and fraud. The Dataset used here is one such containing the listings of many users and their phone numbers now deidentified.
-This is for keeping the confidentiality of the data from compliance perspective.
+The Dataset used for this project is from my own Organization. External users who are customers and partners register onto our organizations prime site seeking in IT NetWorking Solutions and Products. They typicall go thorugh a process of registration and there after come back to update their personal profile data through the profile pages after account login. Notifications during this process are primarily sent via Phones for validations. Many of these phone numbers are fraudulent. Rouge users or Organizations accross geo locations exploit the SMS-Based systems for monetary gain and fraud. 
+
+The Dataset used here is one such containing the listings of many users and their phone numbers now deidentified. This is for keeping the confidentiality of the data from compliance perspective.
 
 #### Datafile Name - 🟨 Fraud_PhoneAnSMS_Dataset.csv 🟨
 
-The original Dataset had a million rows. For keeping the Data size resonable for processing and based on the machine speeds and processing times the data size is curtailed to 50K and has 20 Columns.
+The original Dataset had a million rows. For keeping the Data size resonable for processing and based on the machine speeds and processing times involved the data size is curtailed to 50K and has 20 Columns.
 
 # How is the project work and deliverables being measured? - Measurement Criteria Table As Below for Module-20 Capstone
 <img width="655" height="610" alt="image" src="https://github.com/user-attachments/assets/aec19771-7abc-4701-8097-69c8d25fa86d" />
@@ -35,7 +36,7 @@ Folder Structure Snapshot:
 
 <img width="430" height="264" alt="image" src="https://github.com/user-attachments/assets/b3cf96bd-8e84-4472-bc40-1f082799a747" />
 
-# Phases for this Project
+# Phases of this Project
 ## 1. Business Understanding and Objective
 Organizations that rely on phone numbers for identity verification and SMS-based systems (e.g., one-time passwords, referral programs, financial alerts) are increasingly targeted by fraudsters using fake, virtual, or reused phone numbers. These malicious actors exploit identity systems to:
 - ✅ Bypass user verification steps
@@ -60,7 +61,7 @@ This undermines trust, increases operational cost (e.g., via excessive SMS volum
 - We dropped 'user_id', 'email', 'phone_number', 'browser_fingerprint', 'ip_address'
 - The Data File when observed did not contain any blanks or other irrelevant data which needed substitutions or transformations.
 ## 4. Modeling
-🟨 **Proposed Supervised Models for this Project**
+🟨 **Planned and Proposed Supervised Models for this Project**
 - 🕳️ Logistic Regression (Baselined around this)
 - 🕳️ Random Forest
 - 🕳️ XGBoost
@@ -68,7 +69,7 @@ This undermines trust, increases operational cost (e.g., via excessive SMS volum
 - 🕳️ KNN
 - 🕳️ Naive Bayes:GaussianNB
 
-🟨 **Proposed Unsupervised Models for this Project**
+🟨 **Planned and Proposed Unsupervised Models for this Project**
 - 🕳️ Isolation Forest
 - 🕳️ One-Class SVM
 - 🕳️ LOF
@@ -117,7 +118,7 @@ While writing this readme. I had evaluated all the models I had planned to use t
 
 <img width="1051" height="627" alt="image" src="https://github.com/user-attachments/assets/11486151-4cbd-4b49-b967-7e963fe08d08" />
 
-
+🟢 **Further work Related with this Project Continues with Module 24**
 
 
 
