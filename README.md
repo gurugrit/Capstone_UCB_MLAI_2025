@@ -26,7 +26,7 @@ The original Dataset had a million rows. For keeping the Data size resonable for
   fradulent phone numbers found.
 - The GraphPlots folder would contain 2 SubFolders - <<Supervised>> and <<Unsupervised>>. These subfolders will contain all the graphs for the respective models adopted in the project.
 
-This is a normal sentence.  
+🟥 This is a normal sentence.  
 <span style="color:green">This one is green.</span>  
 <span style="color:orange">This one is orange.</span>  
 <span style="color:tomato">This one is tomato red.</span>
