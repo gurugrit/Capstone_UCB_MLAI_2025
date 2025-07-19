@@ -73,7 +73,7 @@ This undermines trust, increases operational cost (e.g., via excessive SMS volum
   
 ## 5. Exploratory Data Analysis (Data Visualizations)
 
-➡️ **Data Corelation Heatmap**
+➡️ **<u>Data Corelation Heatmap</u>**
 <img width="1019" height="911" alt="image" src="https://github.com/user-attachments/assets/8fafaaad-087d-41a4-9876-bb7b3e31f462" />
 
 ➡️ **Distribution of Key Numeric Features**
