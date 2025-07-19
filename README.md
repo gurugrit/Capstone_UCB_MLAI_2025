@@ -65,7 +65,7 @@ This undermines trust, increases operational cost (e.g., via excessive SMS volum
 - 🕳️ KNN
 - 🕳️ Naive Bayes:GaussianNB
 
-- 🟦 **Planned Unsupervised Models to be used**
+🟨 **Planned Unsupervised Models to be used**
 - 🕳️ Isolation Forest
 - 🕳️ One-Class SVM
 - 🕳️ LOF
