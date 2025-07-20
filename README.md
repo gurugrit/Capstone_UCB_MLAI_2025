@@ -115,7 +115,7 @@ From the above tables we can conclude that...
 The overall performance of a classifier, summarized over all possible classification thresholds, is given by the area under the ROC curve. An ideal ROC curve will hug the top left corner, 
 indicating a high true positive rate and a low false positive rate; the larger the AUC( Area Under) the better the classifier.
 
-While writing this readme. I had evaluated all the models I had planned to use the the ROC Curve for which is depicted below. This is also to baseline this along with the Baseline model it was being evaluated against.
+While writing this readme. I had evaluated all the models I had planned to use, the ROC Curve for which is depicted below. This is also to baseline this along with the Baseline model it was being evaluated against.
 
 <img width="1051" height="627" alt="image" src="https://github.com/user-attachments/assets/11486151-4cbd-4b49-b967-7e963fe08d08" />
 
